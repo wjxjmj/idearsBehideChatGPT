@@ -1,6 +1,6 @@
 Transformers:
 
-+ [Thinking Like Transformers](https://srush.github.io/raspy/
++ [Thinking Like Transformers](https://srush.github.io/raspy/)
 + [An Intuitive Introduction to Transformers](https://blog.paperspace.com/attention-is-all-you-need-the-components-of-the-transformer/)
 
 Self-Attention:
