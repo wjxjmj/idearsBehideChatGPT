@@ -7,6 +7,7 @@
 + [Thinking Like Transformers](https://srush.github.io/raspy/)
 + [Transformers from Scratch](https://e2eml.school/transformers.html)
 + [An Intuitive Introduction to Transformers](https://blog.paperspace.com/attention-is-all-you-need-the-components-of-the-transformer/)
++ [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html#def-privileged-basis)
 
 # Self-Attention:
 + [Twitter to: what the fuck is "attention," exactly](https://twitter.com/docmilanfar/status/1625334889678798848?s=20&t=Pel5zHcFYt2k1XASODMBZQ) 
